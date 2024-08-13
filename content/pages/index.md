@@ -5,18 +5,11 @@ sections:
   - type: HeroSection
     title: Empower Every Person To Achieve More
     subtitle: Our Mission
-    text: >+
+    text: >
       SailShift is a 501(c)(3) nonprofit organization designed to empower every
-      person to achieve more through  Whether it is through webinars about
-      technology or innovation, SailShift is there to enable your success. We
-      provide webinars
-
-
-
-
-
-
-
+      person to achieve more through technology and innovation. Whether it is
+      through webinars, bootcamps, or any other medium, SailShift is there to
+      enable your success. 
     actions:
       - type: Button
         label: Join Our First Webinar Today
