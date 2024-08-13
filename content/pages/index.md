@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Empower Every Person To Achieve More
-    subtitle: The section subtitle
+    subtitle: Our Mission
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
