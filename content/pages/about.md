@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: About
-    subtitle: This is the subtitle
+    subtitle: Empower Every Person To Achieve More
     text: >
       This is **Markdown** *text*.
 
