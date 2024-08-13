@@ -25,7 +25,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/).",
+        "copyrightText": "© 2024 by SailShift Inc.\n",
         "navLinks": [
             {
                 "type": "Link",
