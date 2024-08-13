@@ -26,13 +26,6 @@
     },
     "footer": {
         "copyrightText": "© 2024 by SailShift Inc.\n",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
-            }
-        ]
+        "navLinks": []
     }
 }
