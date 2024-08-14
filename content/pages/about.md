@@ -34,15 +34,5 @@ sections:
       As a 501(c)(e), your donation counts as a tax deductible contribution.
 
 
-      ```
-
-      <input type="button" value="Click Me!" onclick="alert('Hello world!')" />
-
-      ```
-
-
-
-
-
 
 ---
