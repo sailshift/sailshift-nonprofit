@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: About
     subtitle: Empower Every Person To Achieve More
-    text: >
+    text: >+
       ## Mission
 
 
@@ -32,4 +32,17 @@ sections:
 
 
       As a 501(c)(e), your donation counts as a tax deductible contribution.
+
+
+      ```
+
+      <input type="button" value="Click Me!" onclick="alert('Hello world!')" />
+
+      ```
+
+
+
+
+
+
 ---
