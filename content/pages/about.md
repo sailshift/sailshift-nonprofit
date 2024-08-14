@@ -3,15 +3,36 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: Example for H2 headline
-    subtitle: This is the subtitle
-    text: >
-      This is **Markdown** *text*.
+    title: About
+    subtitle: Empower Every Person To Achieve More
+    text: >+
+      ## Mission
+
+
+      SailShift is a 501(c)(3) nonprofit organization designed to empower every
+      person to achieve more through technology and innovation. Regardless of
+      medium, SailShift is there to enable your success.
+
+
+      SailShift offers
+
+
+      *   Webinars for the latest in technology from AI, Coding, Cybersecurity,
+      etc.
+
+      *   Live presentations from experts in the Tech Industry (Amazon, Google,
+      Microsoft, Meta, etc.)
+
+      *   Hackathons for hands-on learning
+
+      *   Bootcamps for state of the art innovation
+
+
+      ## Donations
+
+
+      As a 501(c)(e), your donation counts as a tax deductible contribution.
 
 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
 ---
