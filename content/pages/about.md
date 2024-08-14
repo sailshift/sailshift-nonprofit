@@ -29,7 +29,7 @@ sections:
 
   - type: HeroSection
     title: ''
-    subtitle: ''
+    subtitle: Donations
     text: |
       As a 501(c)(e), your donation counts as a tax deductible contribution
     actions:
