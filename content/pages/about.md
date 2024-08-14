@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: About
-    subtitle: Empower Every Person To Achieve More
+    subtitle: ''
     text: >+
       ## Mission
 
@@ -28,7 +28,6 @@ sections:
       ## Donations
 
       As a 501(c)(e), your donation counts as a tax deductible contribution.
-
 
 
 ---
