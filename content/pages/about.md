@@ -30,7 +30,15 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    text: ''
+    text: |+
+      ## Donations
+
+      As a 501(c)(e), your donation counts as a tax deductible contribution
+
+
+
+
+
     actions:
       - type: Button
         label: Start Building
