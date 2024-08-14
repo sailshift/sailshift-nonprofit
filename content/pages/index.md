@@ -19,6 +19,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/bigtech.jpg
       altText: Hero section image
 ---
