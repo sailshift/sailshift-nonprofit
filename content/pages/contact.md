@@ -3,7 +3,7 @@ type: Page
 title: Contact
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Contact
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
