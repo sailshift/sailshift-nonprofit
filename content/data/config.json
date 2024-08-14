@@ -15,6 +15,13 @@
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "/Contact",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
