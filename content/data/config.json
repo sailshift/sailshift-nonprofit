@@ -20,6 +20,14 @@
     },
     "footer": {
         "copyrightText": "© 2024 by SailShift Inc.\n",
-        "navLinks": []
+        "navLinks": [
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "/Contact",
+                "underline": "always",
+                "color": "primary"
+            }
+        ]
     }
 }
