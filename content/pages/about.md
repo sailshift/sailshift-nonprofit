@@ -27,6 +27,14 @@ sections:
 
       *   Bootcamps for state of the art innovation
 
+
+      ## Donations
+
+
+      As a 501(c)(e), your donation counts as a tax deductible contribution
+
+
+
   - type: HeroSection
     title: ''
     subtitle: Donations
