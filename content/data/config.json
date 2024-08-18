@@ -22,6 +22,13 @@
                 "url": "/contact",
                 "underline": "always",
                 "color": "primary"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "url": "/learn",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
