@@ -20,7 +20,7 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "/contact",
-                "underline": "always",
+                "underline": "none",
                 "color": "primary"
             }
         ]
