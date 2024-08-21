@@ -14,7 +14,7 @@
                 "type": "Link",
                 "label": "About",
                 "url": "/about",
-                "underline": "hover"
+                "underline": "none"
             },
             {
                 "type": "Link",
